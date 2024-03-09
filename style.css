@@ -10,9 +10,7 @@ body{
 }
 
 .hero{
-    border-top:20px solid #05445E;
-    border-left:20px solid #05445E;
-    border-right:20px solid #05445E;
+    border:20px solid #05445E;
 }
 
 .h1_h2_div{
@@ -71,7 +69,7 @@ h2{
     background-color: darkorange;
     width:4rem;
     height:2rem;
-    margin-left: 33rem;
+    margin-left: 50%;
 }
 
 a{
@@ -83,6 +81,7 @@ a{
     display:flex;
     align-items: center;
     justify-content: center;
+    margin-bottom:5rem;
 }
 
 .footer_class{
